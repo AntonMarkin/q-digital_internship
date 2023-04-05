@@ -8,3 +8,6 @@
 # MYSQL. Задача 3
 * Результаты
     * [сертификат о прохождении](https://www.sololearn.com/certificates/CC-EQIT9Q87)
+# MYSQL. Задача 4
+* Результаты
+    * [схема базы данных](https://github.com/AntonMarkin/q-digital_internship/blob/main/task4/db_scheme.jpg)
