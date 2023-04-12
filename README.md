@@ -17,6 +17,7 @@
 # PHP. Задача 6
 * Результаты
     * [репозиторий с tasklistом](https://github.com/AntonMarkin/task-6)
-# PHP. Задача 7
-* В процессе 
+# PHP ООП. Задача 7
+* В прогрессе
     * [репозиторий aviation](https://github.com/AntonMarkin/aviation)
+# PHP MVC. Задача 8
